@@ -24,8 +24,14 @@ The different examples/use cases we will go over are:
 
   ### Notebook Link
 
-    <kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
-    Refer to the following notebook [here](https://github.com/ChristopherCochet/Market-Basket-Analysis/blob/main/1%20-%20Basket%20Analysis%20-%20Data%20Preparation%20and%20Understanding.ipynb)
+<kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
+Refer to the following notebook [here](https://github.com/ChristopherCochet/Market-Basket-Analysis/blob/main/1%20-%20Basket%20Analysis%20-%20Data%20Preparation%20and%20Understanding.ipynb)
+
+### Tracking our progress
+  - [X] Connect to a AWS RDS POSTGRES instance with Python and perform simple table writes and queries
+  - [ ] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
+  - [ ] Connect to a local SQLite table and perform simple table writes and queries
+  - [ ] Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series 
 
 ## 2. Connect to a AWS RDS Postgres instance with Python and revist DSDJ's salary prediction project to write model predictions to a SQL table 
 
@@ -34,8 +40,14 @@ The different examples/use cases we will go over are:
 
   ### Notebook Link
 
-    <kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
-    Refer to the following notebook [link here](https://github.com/ChristopherCochet/Market-Basket-Analysis/blob/main/1%20-%20Basket%20Analysis%20-%20Data%20Preparation%20and%20Understanding.ipynb)
+<kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
+Refer to the following notebook [link here](https://github.com/ChristopherCochet/Market-Basket-Analysis/blob/main/1%20-%20Basket%20Analysis%20-%20Data%20Preparation%20and%20Understanding.ipynb)
+
+### Tracking our progress
+  - [X] Connect to a AWS RDS POSTGRES instance with Python and perform simple table writes and queries
+  - [X] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
+  - [ ] Connect to a local SQLite table and perform simple table writes and queries
+  - [ ] Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series 
 
 ## 3. Connect to a local SQLite table and perform simple table writes and queries
 
@@ -44,8 +56,14 @@ The different examples/use cases we will go over are:
 
   ### Notebook Link
 
-    <kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
-    Refer to the following notebook [link here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Local%20SQLite%20Connection.ipynb)
+<kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
+Refer to the following notebook [link here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Local%20SQLite%20Connection.ipynb)
+
+### Tracking our progress
+  - [X] Connect to a AWS RDS POSTGRES instance with Python and perform simple table writes and queries
+  - [X] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
+  - [X] Connect to a local SQLite table and perform simple table writes and queries
+  - [ ] Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series 
 
 ## 4. Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series
 
@@ -54,5 +72,11 @@ The different examples/use cases we will go over are:
 
   ### Notebook Link
 
-    <kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
-    Refer to the following notebook [link here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Harpreet%20SQL%20TWS%20-%20class2%20revisited.ipynb)
+<kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
+Refer to the following notebook [link here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Harpreet%20SQL%20TWS%20-%20class2%20revisited.ipynb)
+
+### Tracking our progress
+  - [X] Connect to a AWS RDS POSTGRES instance with Python and perform simple table writes and queries
+  - [X] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
+  - [X] Connect to a local SQLite table and perform simple table writes and queries
+  - [X] Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series 
