@@ -1,12 +1,12 @@
-# Examples of interaction with SQL databases using Python
+# Examples of Interacting with SQL databases using Python
 
 **Description:** This repo contains a series of Python notebooks showing simple ways to interact with SQL databases. These can serve as examples that can be later uses to build more complex data pipelines using python scripts.  
 
 <kbd> <img src="img/sql-connection-overview.JPG?raw=true"/> </kbd>
 
 The different examples/use cases we will go over are:
-  - [ ] Connect to a AWS RDS POSTGRES instance with Python and perform simple table writes and queries
-  - [ ] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
+  - [ ] Connect to a AWS RDS Postgres instance with Python and perform simple table writes and queries
+  - [ ] Connect to a AWS RDS Postgres instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
   - [ ] Connect to a local SQLite table and perform simple table writes and queries
   - [ ] Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series 
 
@@ -25,27 +25,27 @@ The different examples/use cases we will go over are:
   ### Notebook Link
 
 <kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
-Refer to the following notebook [here](https://github.com/ChristopherCochet/Market-Basket-Analysis/blob/main/1%20-%20Basket%20Analysis%20-%20Data%20Preparation%20and%20Understanding.ipynb)
+Refer to the following notebook [here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Postgres%20RDS%20Connection.ipynb)
 
 ### Tracking our progress
-  - [X] Connect to a AWS RDS POSTGRES instance with Python and perform simple table writes and queries
-  - [ ] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
+  - [X] Connect to a AWS RDS Postgres instance with Python and perform simple table writes and queries
+  - [ ] Connect to a AWS RDS Postgres instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
   - [ ] Connect to a local SQLite table and perform simple table writes and queries
   - [ ] Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series 
 
 ## 2. Connect to a AWS RDS Postgres instance with Python and revist DSDJ's salary prediction project to write model predictions to a SQL table 
 
-  ### #Pre-requisite
-  * The DSDJ Salary Prediction portfolio project from Module 4 : [link here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Postgres%20RDS%20Connection-Salary%20Prediction.ipynb) 
+  ### Pre-requisite
+  * The DSDJ Salary Prediction portfolio project from Module 4 : [link here](https://www.datasciencedreamjob.com/products/data-science-dream-job-full-course/categories/4832772/posts/16453783) 
 
   ### Notebook Link
 
 <kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
-Refer to the following notebook [link here](https://github.com/ChristopherCochet/Market-Basket-Analysis/blob/main/1%20-%20Basket%20Analysis%20-%20Data%20Preparation%20and%20Understanding.ipynb)
+Refer to the following notebook [link here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Postgres%20RDS%20Connection-Salary%20Prediction.ipynb)
 
 ### Tracking our progress
-  - [X] Connect to a AWS RDS POSTGRES instance with Python and perform simple table writes and queries
-  - [X] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
+  - [X] Connect to a AWS RDS Postgres instance with Python and perform simple table writes and queries
+  - [X] Connect to a AWS RDS Postgres instance with Python and revist DSDJ's salary prediction project to write model predictions to a SQL table 
   - [ ] Connect to a local SQLite table and perform simple table writes and queries
   - [ ] Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series 
 
@@ -60,8 +60,8 @@ Refer to the following notebook [link here](https://github.com/ChristopherCochet
 Refer to the following notebook [link here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Local%20SQLite%20Connection.ipynb)
 
 ### Tracking our progress
-  - [X] Connect to a AWS RDS POSTGRES instance with Python and perform simple table writes and queries
-  - [X] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
+  - [X] Connect to a AWS RDS Postgres instance with Python and perform simple table writes and queries
+  - [X] Connect to a AWS RDS Postgres instance with Python and revist DSDJ's salary prediction project to write model predictions to a SQL table 
   - [X] Connect to a local SQLite table and perform simple table writes and queries
   - [ ] Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series 
 
@@ -77,6 +77,6 @@ Refer to the following notebook [link here](https://github.com/ChristopherCochet
 
 ### Tracking our progress
   - [X] Connect to a AWS RDS POSTGRES instance with Python and perform simple table writes and queries
-  - [X] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
+  - [X] Connect to a AWS RDS POSTGRES instance with Python and revist DSDJ's salary prediction project to write model predictions to a SQL table 
   - [X] Connect to a local SQLite table and perform simple table writes and queries
   - [X] Create a local SQLite table and revisit class 2 of Harpreets' SQL Technical Workshop (TWS) series 
