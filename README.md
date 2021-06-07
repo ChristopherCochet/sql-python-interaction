@@ -36,7 +36,7 @@ Refer to the following notebook [here](https://github.com/ChristopherCochet/sql-
 ## 2. Connect to a AWS RDS Postgres instance with Python and revist DSDJ's salary prediction project to write model predictions to a SQL table 
 
   ### Pre-requisite
-  * The DSDJ Salary Prediction portfolio project from Module 4 : [link here](https://www.datasciencedreamjob.com/products/data-science-dream-job-full-course/categories/4832772/posts/16453783) 
+  * The DSDJ Salary Prediction portfolio project from Module 4 : [link here](https://www.datasciencedreamjob.com/products/data-science-dream-job-full-course/categories/969481/posts/3215992) 
 
   ### Notebook Link
 
