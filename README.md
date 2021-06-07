@@ -1,10 +1,10 @@
-# Examples of Interacting with SQL databases using Python
+# Interacting with SQL databases using Python - Simple Examples
 
 **Description:** This repo contains a series of Python notebooks showing simple ways to interact with SQL databases. These can serve as examples that can be later uses to build more complex data pipelines using python scripts.  
 
 <kbd> <img src="img/sql-connection-overview.JPG?raw=true"/> </kbd>
 
-The different examples/use cases we will go over are:
+<br/> <u> The different examples/use cases we will go over are: <u>
   - [ ] Connect to a AWS RDS Postgres instance with Python and perform simple table writes and queries
   - [ ] Connect to a AWS RDS Postgres instance with Python and revist DSDJ's salaray prediction project to write model predictions to a SQL table 
   - [ ] Connect to a local SQLite table and perform simple table writes and queries
