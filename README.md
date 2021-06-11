@@ -22,7 +22,12 @@
     * https://pypi.org/project/SQLAlchemy/
     * https://www.psycopg.org/docs/
 
-  ### Notebook Link
+  ### Notebook Link (Postgres db)
+
+<kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
+Refer to the following notebook [here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Postgres%20RDS%20Connection.ipynb)
+
+  ### Notebook Link (Mysql db exmaple)
 
 <kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/jupyter.png"/> </kbd>
 Refer to the following notebook [here](https://github.com/ChristopherCochet/sql-python-interaction/blob/main/Postgres%20RDS%20Connection.ipynb)
